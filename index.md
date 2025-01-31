@@ -5,20 +5,22 @@ title: Guia Prático para OSCs
 
 <link rel="stylesheet" href="{{ site.font_awesome_url }}">
 
-# Guia Prático para Organizações da Sociedade Civil
+{% include nav.html %}
 
-Bem-vindo ao Guia Prático para OSCs. Este recurso foi desenvolvido para auxiliar as Organizações da Sociedade Civil em todas as etapas de parceria com o poder público.
+# <i class="fas fa-book"></i> Guia Prático para OSCs
 
-## Etapas do Processo
+Bem-vindo ao Guia Prático para Organizações da Sociedade Civil (OSCs). Este guia foi desenvolvido para auxiliar as OSCs em todas as etapas de parcerias com o poder público.
 
-1. [Preparação Inicial]({{ site.baseurl }}/preparacao-inicial)
-2. [Elaboração de Proposta]({{ site.baseurl }}/elaboracao-proposta)
-3. [Participação no Chamamento Público]({{ site.baseurl }}/chamamento-publico)
-4. [Celebração da Parceria]({{ site.baseurl }}/celebracao-parceria)
-5. [Execução do Projeto]({{ site.baseurl }}/execucao-projeto)
-6. [Monitoramento e Avaliação]({{ site.baseurl }}/monitoramento-avaliacao)
-7. [Prestação de Contas]({{ site.baseurl }}/prestacao-contas)
+## Seções do Guia
 
-[Começar pela Preparação Inicial]({{ site.baseurl }}/preparacao-inicial){: .btn .btn-primary }
+- <i class="fas fa-clipboard-list"></i> [Preparação Inicial]({{ site.baseurl }}/preparacao-inicial)
+- <i class="fas fa-pencil-alt"></i> [Elaboração de Proposta]({{ site.baseurl }}/elaboracao-proposta)
+- <i class="fas fa-bullhorn"></i> [Chamamento Público]({{ site.baseurl }}/chamamento-publico)
+- <i class="fas fa-handshake"></i> [Celebração da Parceria]({{ site.baseurl }}/celebracao-parceria)
+- <i class="fas fa-tasks"></i> [Execução do Projeto]({{ site.baseurl }}/execucao-projeto)
+- <i class="fas fa-chart-line"></i> [Monitoramento e Avaliação]({{ site.baseurl }}/monitoramento-avaliacao)
+- <i class="fas fa-file-invoice-dollar"></i> [Prestação de Contas]({{ site.baseurl }}/prestacao-contas)
 
-[Voltar ao Guia MROSC](https://phkawka.github.io/MROSC/){: .btn .btn-secondary }
+<div class="fique-ligado">
+  <strong>FIQUE LIGADO!</strong> Este guia é uma ferramenta viva e será atualizado regularmente. Confira sempre a data da última atualização.
+</div>
