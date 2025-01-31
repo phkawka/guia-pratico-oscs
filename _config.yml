@@ -46,3 +46,6 @@ defaults:
 
 # Desativar downloads no tema Cayman
 show_downloads: false
+
+# Adicione esta linha no seu _config.yml
+font_awesome_url: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css
