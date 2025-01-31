@@ -3,6 +3,7 @@ layout: default
 title: Celebração da Parceria
 ---
 
+<link rel="stylesheet" href="{{ site.font_awesome_url }}">
 {% include nav.html %}
 
 # Celebração da Parceria
