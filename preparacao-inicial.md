@@ -3,6 +3,7 @@ layout: default
 title: Preparação Inicial
 ---
 
+<link rel="stylesheet" href="{{ site.font_awesome_url }}">
 {% include nav.html %}
 
 # Preparação Inicial
