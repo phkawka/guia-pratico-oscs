@@ -3,6 +3,8 @@ layout: default
 title: Prestação de Contas
 ---
 
+{% include nav.html %}
+
 # Prestação de Contas
 
 A prestação de contas é uma etapa fundamental na parceria entre OSCs e o poder público. É o momento de demonstrar a correta aplicação dos recursos e o alcance dos objetivos propostos.
