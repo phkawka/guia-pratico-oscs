@@ -14,20 +14,22 @@ O chamamento público é o procedimento destinado a selecionar organizações da
 - Identifique todos os documentos necessários
 - Verifique os critérios de seleção e pontuação
 
-<div class="fique-ligado">
+<div style="background-color: #fffacd; border-left: 5px solid #ffd700; padding: 15px; margin-bottom: 20px;">
 
-**FIQUE LIGADO!** 
+<strong>FIQUE LIGADO!</strong> 
 
 Ao ler o edital, preste atenção especial aos seguintes pontos:
 
-- **Objeto da parceria**: Certifique-se de que o objetivo do edital está alinhado com a missão da sua OSC.
-- **Prazos**: Observe atentamente as datas de inscrição, entrega de documentos e possíveis etapas do processo.
-- **Requisitos de participação**: Verifique se sua OSC atende a todos os critérios de elegibilidade.
-- **Documentação exigida**: Faça uma lista de todos os documentos necessários e comece a reuni-los imediatamente.
-- **Critérios de seleção**: Entenda como as propostas serão avaliadas para adequar seu projeto da melhor forma possível.
-- **Valor máximo da proposta**: Observe se há um teto para o valor do projeto e planeje seu orçamento de acordo.
-- **Contrapartida**: Verifique se é exigida alguma contrapartida da OSC e em que termos.
-- **Vedações**: Preste atenção às atividades ou despesas que são expressamente proibidas pelo edital.
+<ul>
+<li><strong>Objeto da parceria</strong>: Certifique-se de que o objetivo do edital está alinhado com a missão da sua OSC.</li>
+<li><strong>Prazos</strong>: Observe atentamente as datas de inscrição, entrega de documentos e possíveis etapas do processo.</li>
+<li><strong>Requisitos de participação</strong>: Verifique se sua OSC atende a todos os critérios de elegibilidade.</li>
+<li><strong>Documentação exigida</strong>: Faça uma lista de todos os documentos necessários e comece a reuni-los imediatamente.</li>
+<li><strong>Critérios de seleção</strong>: Entenda como as propostas serão avaliadas para adequar seu projeto da melhor forma possível.</li>
+<li><strong>Valor máximo da proposta</strong>: Observe se há um teto para o valor do projeto e planeje seu orçamento de acordo.</li>
+<li><strong>Contrapartida</strong>: Verifique se é exigida alguma contrapartida da OSC e em que termos.</li>
+<li><strong>Vedações</strong>: Preste atenção às atividades ou despesas que são expressamente proibidas pelo edital.</li>
+</ul>
 
 </div>
 
