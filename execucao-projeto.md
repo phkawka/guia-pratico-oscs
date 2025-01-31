@@ -69,13 +69,4 @@ Durante a execução do projeto, esteja atento a:
 
 Após a execução do projeto, o próximo passo crucial é a [Prestação de Contas]({{ site.baseurl }}/prestacao-contas).
 
-[Voltar para o Guia Prático]({{ site.baseurl }}/){: .btn .btn-secondary }---
-layout: page
-title: Execução do Projeto
----
-
-# Execução do Projeto
-
-Conteúdo em desenvolvimento...
-
-[Voltar para o Guia Prático]({{ site.baseurl }}/guia-pratico-oscs){: .btn .btn-secondary }
+[Voltar para o Guia Prático]({{ site.baseurl }}/){: .btn .btn-secondary }
