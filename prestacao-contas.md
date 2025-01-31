@@ -3,6 +3,7 @@ layout: default
 title: Prestação de Contas
 ---
 
+<link rel="stylesheet" href="{{ site.font_awesome_url }}">
 {% include nav.html %}
 
 # Prestação de Contas
