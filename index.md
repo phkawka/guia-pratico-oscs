@@ -3,6 +3,8 @@ layout: default
 title: Guia Prático para OSCs
 ---
 
+<link rel="stylesheet" href="{{ site.font_awesome_url }}">
+
 # Guia Prático para Organizações da Sociedade Civil
 
 Bem-vindo ao Guia Prático para OSCs. Este recurso foi desenvolvido para auxiliar as Organizações da Sociedade Civil em todas as etapas de parceria com o poder público.
