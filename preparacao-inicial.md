@@ -3,6 +3,8 @@ layout: default
 title: Preparação Inicial
 ---
 
+{% include nav.html %}
+
 # Preparação Inicial
 
 A preparação inicial é um passo crucial para qualquer Organização da Sociedade Civil (OSC) que deseja estabelecer parcerias com o poder público. Esta fase envolve várias etapas importantes que ajudarão sua organização a se posicionar de forma estratégica e eficiente.
