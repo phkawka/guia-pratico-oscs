@@ -58,3 +58,21 @@ body {
   margin-bottom: 20px;
   font-style: italic;
 }
+
+.site-nav {
+  padding: 1rem 0;
+  text-align: center;
+  background-color: #f8f9fa;
+  border-bottom: 1px solid #e9ecef;
+
+  .nav-link {
+    display: inline-block;
+    padding: 0.5rem 1rem;
+    color: #495057;
+    text-decoration: none;
+    
+    &:hover {
+      color: #007bff;
+    }
+  }
+}
