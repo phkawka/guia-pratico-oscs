@@ -3,6 +3,8 @@ layout: default
 title: Celebração da Parceria
 ---
 
+{% include nav.html %}
+
 # Celebração da Parceria
 
 Após a seleção no chamamento público, a próxima etapa é a celebração da parceria. Este é um momento importante que formaliza o acordo entre a OSC e a administração pública.
