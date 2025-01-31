@@ -30,6 +30,7 @@ Ao ler o edital, preste atenção especial aos seguintes pontos:
 - **Vedações**: Preste atenção às atividades ou despesas que são expressamente proibidas pelo edital.
 
 </div>
+
 ## 2. Verificação de Elegibilidade
 
 Certifique-se de que sua organização atende a todos os requisitos de elegibilidade, que geralmente incluem:
