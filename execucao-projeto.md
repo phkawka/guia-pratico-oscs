@@ -3,6 +3,7 @@ layout: default
 title: Execução do Projeto
 ---
 
+<link rel="stylesheet" href="{{ site.font_awesome_url }}">
 {% include nav.html %}
 
 # Execução do Projeto
