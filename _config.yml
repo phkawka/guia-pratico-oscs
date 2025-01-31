@@ -1,4 +1,7 @@
-theme: jekyll-theme-cayman
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+- jekyll-remote-theme
+
 title: Guia Prático para OSCs
 description: Um guia completo para Organizações da Sociedade Civil
 
@@ -11,3 +14,35 @@ header_pages:
   - execucao-projeto.md
   - monitoramento-avaliacao.md
   - prestacao-contas.md
+
+# Configurações adicionais para melhorar a funcionalidade
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+# Configurações de URL (ajuste conforme necessário)
+baseurl: "/guia-pratico-oscs"
+url: "https://seunome.github.io"
+
+# Excluir arquivos desnecessários da compilação
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - README.md
+
+# Configurações padrão para todas as páginas
+defaults:
+  -
+    scope:
+      path: "" # um valor vazio significa todos os arquivos no projeto
+    values:
+      layout: "default"
+
+# Desativar downloads no tema Cayman
+show_downloads: false
