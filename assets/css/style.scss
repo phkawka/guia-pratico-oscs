@@ -76,3 +76,17 @@ body {
     }
   }
 }
+
+// Estilos para ícones
+.fas, .fab, .far {
+  margin-right: 0.5rem;
+  color: $section-headings-color;
+}
+
+h1 .fas, h1 .fab, h1 .far {
+  font-size: 0.9em;
+}
+
+h2 .fas, h2 .fab, h2 .far {
+  font-size: 0.8em;
+}
