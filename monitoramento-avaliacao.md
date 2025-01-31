@@ -3,6 +3,8 @@ layout: default
 title: Monitoramento e Avaliação
 ---
 
+{% include nav.html %}
+
 # Monitoramento e Avaliação
 
 O monitoramento e a avaliação são processos contínuos e essenciais durante toda a execução do projeto. Eles ajudam a garantir que as atividades estão sendo realizadas conforme planejado e que os objetivos estão sendo alcançados.
