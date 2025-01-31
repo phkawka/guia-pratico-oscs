@@ -1,3 +1,13 @@
 theme: minima
 title: Guia Prático para OSCs
 description: Um guia completo para Organizações da Sociedade Civil
+
+header_pages:
+  - guia-pratico-oscs.md
+  - preparacao-inicial.md
+  - elaboracao-proposta.md
+  - chamamento-publico.md
+  - celebracao-parceria.md
+  - execucao-projeto.md
+  - monitoramento-avaliacao.md
+  - prestacao-contas.md
