@@ -3,27 +3,18 @@
 
 @import "{{ site.theme }}";
 
-// Estilos personalizados
-.fique-ligado {
-  background-color: #fffacd;
-  border-left: 5px solid #ffd700;
-  padding: 15px;
-  margin-bottom: 20px;
-}
-/* Estilos gerais */
+// Seus estilos personalizados aqui
 body {
-  font-family: 'Merriweather', serif;
-  font-size: 16px;
+  font-family: 'Arial', sans-serif;
+  font-size: 18px;
   line-height: 1.6;
   color: #333;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'Roboto', sans-serif;
   color: #2c3e50;
 }
 
-/* Estilo para o "FIQUE LIGADO!" */
 .fique-ligado {
   background-color: #fffacd;
   border-left: 5px solid #ffd700;
@@ -31,7 +22,6 @@ h1, h2, h3, h4, h5, h6 {
   margin-bottom: 20px;
 }
 
-/* Estilo para botões */
 .btn {
   display: inline-block;
   padding: 10px 20px;
@@ -41,10 +31,8 @@ h1, h2, h3, h4, h5, h6 {
   border-radius: 5px;
 }
 
-/* Estilo para links */
 a {
   color: #3498db;
-  text-decoration: none;
 }
 
 a:hover {
