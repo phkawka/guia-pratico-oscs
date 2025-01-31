@@ -3,6 +3,7 @@ layout: default
 title: Elaboração de Proposta
 ---
 
+<link rel="stylesheet" href="{{ site.font_awesome_url }}">
 {% include nav.html %}
 
 # Elaboração de Proposta
