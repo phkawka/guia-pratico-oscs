@@ -3,6 +3,8 @@ layout: default
 title: Elaboração de Proposta
 ---
 
+{% include nav.html %}
+
 # Elaboração de Proposta
 
 A elaboração de uma proposta sólida é crucial para o sucesso da sua parceria com o poder público. Esta etapa requer atenção aos detalhes, planejamento cuidadoso e alinhamento com os objetivos do edital de chamamento público.
