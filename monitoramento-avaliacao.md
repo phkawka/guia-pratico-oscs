@@ -3,6 +3,7 @@ layout: default
 title: Monitoramento e Avaliação
 ---
 
+<link rel="stylesheet" href="{{ site.font_awesome_url }}">
 {% include nav.html %}
 
 # Monitoramento e Avaliação
