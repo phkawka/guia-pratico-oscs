@@ -9,4 +9,6 @@ Bem-vindo ao Guia Prático para OSCs. Este recurso foi desenvolvido para auxilia
 
 [Acessar o Guia]({{ site.baseurl }}/guia-pratico-oscs){: .btn .btn-primary }
 
+[Guia Prático para OSCs](https://seuusername.github.io/guia-pratico-oscs){: .btn .btn-secondary }
+
 [Voltar ao Guia MROSC](https://seuusername.github.io/nome-do-repo-original){: .btn .btn-secondary }
