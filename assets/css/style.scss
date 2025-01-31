@@ -4,3 +4,10 @@
 @import "{{ site.theme }}";
 
 // Adicione seus estilos personalizados aqui
+
+.fique-ligado {
+  background-color: #fffacd;
+  border-left: 5px solid #ffd700;
+  padding: 15px;
+  margin-bottom: 20px;
+}
