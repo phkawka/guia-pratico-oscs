@@ -3,6 +3,8 @@ layout: default
 title: Participação no Chamamento Público
 ---
 
+{% include nav.html %}
+
 # Participação no Chamamento Público
 
 O chamamento público é o procedimento destinado a selecionar organizações da sociedade civil para firmar parcerias com a administração pública. É uma etapa crucial no processo de estabelecimento de parcerias e requer atenção aos detalhes e cumprimento rigoroso das regras estabelecidas.
