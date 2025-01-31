@@ -72,3 +72,6 @@ No processo de monitoramento e avaliação, atente-se para:
 Após o monitoramento e avaliação contínuos, o próximo passo crucial é a [Prestação de Contas]({{ site.baseurl }}/prestacao-contas).
 
 [Voltar para o Guia Prático]({{ site.baseurl }}/){: .btn .btn-secondary }
+
+[Voltar para o Início]({{ site.baseurl }}/){: .btn }
+[Próxima Seção]({{ site.baseurl }}/proxima-secao){: .btn }
