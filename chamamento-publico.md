@@ -5,6 +5,73 @@ title: Participação no Chamamento Público
 
 # Participação no Chamamento Público
 
-Conteúdo em desenvolvimento...
+O chamamento público é o procedimento destinado a selecionar organizações da sociedade civil para firmar parcerias com a administração pública. É uma etapa crucial no processo de estabelecimento de parcerias e requer atenção aos detalhes e cumprimento rigoroso das regras estabelecidas.
 
-[Voltar para o Guia Prático]({{ site.baseurl }}/guia-pratico-oscs){: .btn .btn-secondary }
+## 1. Compreensão do Edital
+
+- Leia o edital completo, várias vezes se necessário
+- Anote os prazos importantes
+- Identifique todos os documentos necessários
+- Verifique os critérios de seleção e pontuação
+
+## 2. Verificação de Elegibilidade
+
+Certifique-se de que sua organização atende a todos os requisitos de elegibilidade, que geralmente incluem:
+
+- Tempo mínimo de existência da OSC
+- Experiência prévia na área do projeto
+- Capacidade técnica e operacional
+- Regularidade jurídica e fiscal
+
+## 3. Preparação da Documentação
+
+Reúna todos os documentos exigidos, que podem incluir:
+
+- Cópia do estatuto social e eventuais alterações
+- Cópia da ata de eleição da atual diretoria
+- Relação nominal dos dirigentes
+- Comprovante de inscrição no CNPJ
+- Certidões de regularidade fiscal
+- Cópia de documento que comprove o funcionamento no endereço declarado
+
+## 4. Elaboração do Plano de Trabalho
+
+Desenvolva um plano de trabalho detalhado, conforme as exigências do edital, incluindo:
+
+- Descrição da realidade que será objeto da parceria
+- Descrição das metas a serem atingidas
+- Forma de execução das atividades
+- Definição dos parâmetros para aferição do cumprimento das metas
+
+## 5. Orçamento Detalhado
+
+Prepare um orçamento detalhado e realista, considerando:
+
+- Todas as despesas necessárias para a execução do projeto
+- Conformidade com os valores de mercado
+- Adequação aos limites e diretrizes estabelecidos no edital
+
+## 6. Participação em Sessão Pública
+
+Se houver uma sessão pública de abertura das propostas:
+
+- Prepare-se para apresentar sua proposta
+- Esteja pronto para responder a questionamentos
+- Leve todos os documentos originais para conferência
+
+## 7. Acompanhamento do Processo
+
+- Fique atento às publicações oficiais sobre o processo
+- Respeite os prazos para recursos ou esclarecimentos, se necessário
+- Mantenha-se disponível para fornecer informações adicionais, se solicitado
+
+## 8. Resultado e Próximos Passos
+
+- Se selecionado, prepare-se para a fase de celebração da parceria
+- Se não selecionado, solicite feedback para melhorias futuras
+
+## Próximos Passos
+
+Após a seleção no chamamento público, o próximo passo é a [Celebração da Parceria]({{ site.baseurl }}/celebracao-parceria).
+
+[Voltar para o Guia Prático]({{ site.baseurl }}/){: .btn .btn-secondary }
