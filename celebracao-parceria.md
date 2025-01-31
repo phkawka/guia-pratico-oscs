@@ -34,18 +34,20 @@ Após a seleção no chamamento público, a próxima etapa é a celebração da 
 - Certifique-se de que todos os detalhes acordados estão corretamente descritos no documento
 - Verifique as obrigações de ambas as partes, cronograma de desembolso e metas estabelecidas
 
-<div class="fique-ligado">
+<div style="background-color: #fffacd; border-left: 5px solid #ffd700; padding: 15px; margin-bottom: 20px;">
 
-**FIQUE LIGADO!** 
+<strong>FIQUE LIGADO!</strong>
 
 Antes de assinar o termo de parceria, preste atenção especial a:
 
-- **Objeto da parceria**: Deve estar claramente definido e de acordo com a proposta aprovada
-- **Vigência**: Verifique as datas de início e término da parceria
-- **Valor total e cronograma de desembolso**: Confira se estão de acordo com o planejado
-- **Metas e indicadores**: Certifique-se de que são realistas e mensuráveis
-- **Obrigações da OSC**: Entenda claramente suas responsabilidades
-- **Prestação de contas**: Observe os prazos e requisitos para prestação de contas
+<ul>
+  <li><strong>Objeto da parceria</strong>: Deve estar claramente definido e de acordo com a proposta aprovada</li>
+  <li><strong>Vigência</strong>: Verifique as datas de início e término da parceria</li>
+  <li><strong>Valor total e cronograma de desembolso</strong>: Confira se estão de acordo com o planejado</li>
+  <li><strong>Metas e indicadores</strong>: Certifique-se de que são realistas e mensuráveis</li>
+  <li><strong>Obrigações da OSC</strong>: Entenda claramente suas responsabilidades</li>
+  <li><strong>Prestação de contas</strong>: Observe os prazos e requisitos para prestação de contas</li>
+</ul>
 
 </div>
 
