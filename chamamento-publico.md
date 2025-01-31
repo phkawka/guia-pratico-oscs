@@ -3,6 +3,7 @@ layout: default
 title: Participação no Chamamento Público
 ---
 
+<link rel="stylesheet" href="{{ site.font_awesome_url }}">
 {% include nav.html %}
 
 # Participação no Chamamento Público
