@@ -3,6 +3,8 @@ layout: default
 title: Execução do Projeto
 ---
 
+{% include nav.html %}
+
 # Execução do Projeto
 
 A fase de execução é o momento em que o plano de trabalho se transforma em ação. É fundamental seguir o planejamento aprovado, mantendo uma gestão eficiente e transparente.
