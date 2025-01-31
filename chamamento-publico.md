@@ -7,25 +7,29 @@ title: Participação no Chamamento Público
 
 O chamamento público é o procedimento destinado a selecionar organizações da sociedade civil para firmar parcerias com a administração pública. É uma etapa crucial no processo de estabelecimento de parcerias e requer atenção aos detalhes e cumprimento rigoroso das regras estabelecidas.
 
-## 1. Compreensão do Edital
+# 1. Compreensão do Edital
 
 - Leia o edital completo, várias vezes se necessário
 - Anote os prazos importantes
 - Identifique todos os documentos necessários
 - Verifique os critérios de seleção e pontuação
 
-> **FIQUE LIGADO!** 
-> Ao ler o edital, preste atenção especial aos seguintes pontos:
-> 
-> - **Objeto da parceria**: Certifique-se de que o objetivo do edital está alinhado com a missão da sua OSC.
-> - **Prazos**: Observe atentamente as datas de inscrição, entrega de documentos e possíveis etapas do processo.
-> - **Requisitos de participação**: Verifique se sua OSC atende a todos os critérios de elegibilidade.
-> - **Documentação exigida**: Faça uma lista de todos os documentos necessários e comece a reuni-los imediatamente.
-> - **Critérios de seleção**: Entenda como as propostas serão avaliadas para adequar seu projeto da melhor forma possível.
-> - **Valor máximo da proposta**: Observe se há um teto para o valor do projeto e planeje seu orçamento de acordo.
-> - **Contrapartida**: Verifique se é exigida alguma contrapartida da OSC e em que termos.
-> - **Vedações**: Preste atenção às atividades ou despesas que são expressamente proibidas pelo edital.
+<div class="fique-ligado">
 
+**FIQUE LIGADO!** 
+
+Ao ler o edital, preste atenção especial aos seguintes pontos:
+
+- **Objeto da parceria**: Certifique-se de que o objetivo do edital está alinhado com a missão da sua OSC.
+- **Prazos**: Observe atentamente as datas de inscrição, entrega de documentos e possíveis etapas do processo.
+- **Requisitos de participação**: Verifique se sua OSC atende a todos os critérios de elegibilidade.
+- **Documentação exigida**: Faça uma lista de todos os documentos necessários e comece a reuni-los imediatamente.
+- **Critérios de seleção**: Entenda como as propostas serão avaliadas para adequar seu projeto da melhor forma possível.
+- **Valor máximo da proposta**: Observe se há um teto para o valor do projeto e planeje seu orçamento de acordo.
+- **Contrapartida**: Verifique se é exigida alguma contrapartida da OSC e em que termos.
+- **Vedações**: Preste atenção às atividades ou despesas que são expressamente proibidas pelo edital.
+
+</div>
 ## 2. Verificação de Elegibilidade
 
 Certifique-se de que sua organização atende a todos os requisitos de elegibilidade, que geralmente incluem:
