@@ -6,75 +6,64 @@ title: Monitoramento e Avaliação
 <link rel="stylesheet" href="{{ site.font_awesome_url }}">
 {% include nav.html %}
 
-# Monitoramento e Avaliação
+# <i class="fas fa-chart-line"></i> Monitoramento e Avaliação
 
-O monitoramento e a avaliação são processos contínuos e essenciais durante toda a execução do projeto. Eles ajudam a garantir que as atividades estão sendo realizadas conforme planejado e que os objetivos estão sendo alcançados.
+O monitoramento e a avaliação são processos contínuos e essenciais para o sucesso da parceria. Eles permitem acompanhar o progresso, identificar desafios e fazer ajustes necessários durante a execução do projeto.
 
-## 1. Importância do Monitoramento e Avaliação
+## <i class="fas fa-bullseye"></i> 1. Indicadores de Desempenho
 
-- Permite acompanhar o progresso do projeto em tempo real
-- Identifica problemas e desafios precocemente
-- Fornece dados para tomada de decisões e possíveis ajustes
-- Demonstra transparência e responsabilidade na gestão dos recursos públicos
+- Utilize os indicadores estabelecidos no plano de trabalho
+- Colete dados regularmente para medir o progresso
+- Compare os resultados obtidos com as metas propostas
 
-## 2. Estabelecimento de Indicadores
+## <i class="fas fa-clipboard-list"></i> 2. Relatórios de Execução
 
-- Defina indicadores claros e mensuráveis para cada objetivo e meta do projeto
-- Utilize indicadores quantitativos e qualitativos
-- Estabeleça a frequência de coleta de dados para cada indicador
+- Prepare relatórios periódicos conforme exigido no termo de parceria
+- Inclua informações sobre:
+  - Atividades realizadas
+  - Metas alcançadas
+  - Beneficiários atendidos
+  - Recursos utilizados
 
-## 3. Coleta de Dados
-
-- Implemente um sistema eficiente de coleta de dados
-- Utilize ferramentas adequadas (formulários, pesquisas, entrevistas, etc.)
-- Mantenha registros detalhados de todas as atividades realizadas
-
-## 4. Análise dos Dados
-
-- Compare os dados coletados com as metas estabelecidas no plano de trabalho
-- Identifique tendências, sucessos e áreas que precisam de melhoria
-- Prepare relatórios regulares com os resultados das análises
-
-## 5. Visitas de Monitoramento
+## <i class="fas fa-search"></i> 3. Visitas Técnicas
 
 - Esteja preparado para receber visitas de monitoramento da administração pública
-- Mantenha toda a documentação organizada e acessível
-- Esteja pronto para demonstrar o progresso do projeto e discutir desafios
+- Mantenha a documentação organizada e acessível
+- Demonstre as atividades em andamento e os resultados alcançados
 
-<div style="background-color: #fffacd; border-left: 5px solid #ffd700; padding: 15px; margin-bottom: 20px;">
+## <i class="fas fa-users"></i> 4. Pesquisa de Satisfação
 
-<strong>FIQUE LIGADO!</strong>
+- Realize pesquisas com os beneficiários do projeto
+- Colete feedback sobre a qualidade e o impacto das atividades
+- Use os resultados para melhorar a execução do projeto
 
-No processo de monitoramento e avaliação, atente-se para:
+## <i class="fas fa-sync"></i> 5. Ajustes no Projeto
 
+- Identifique áreas que necessitam de melhorias
+- Proponha alterações no plano de trabalho, se necessário
+- Obtenha aprovação da administração pública para mudanças significativas
+
+## <i class="fas fa-file-alt"></i> 6. Prestação de Contas Parcial
+
+- Prepare relatórios financeiros periódicos
+- Mantenha todos os comprovantes de despesas organizados
+- Esteja preparado para esclarecimentos sobre a execução financeira
+
+<div class="fique-ligado">
+<strong>FIQUE LIGADO!</strong> 
+
+No processo de monitoramento e avaliação:
 <ul>
-  <li><strong>Objetividade</strong>: Baseie suas avaliações em dados concretos, não em impressões</li>
-  <li><strong>Participação</strong>: Envolva a equipe e, quando possível, os beneficiários no processo</li>
-  <li><strong>Transparência</strong>: Compartilhe os resultados com a administração pública e stakeholders</li>
-  <li><strong>Aprendizagem</strong>: Use os insights obtidos para melhorar continuamente o projeto</li>
-  <li><strong>Flexibilidade</strong>: Esteja aberto a ajustes no plano de trabalho, se necessário e permitido</li>
-  <li><strong>Documentação</strong>: Mantenha registros detalhados de todo o processo de M&A</li>
+<li>Seja proativo na coleta e análise de dados</li>
+<li>Mantenha uma comunicação transparente com a administração pública</li>
+<li>Use os resultados para aprendizado e melhoria contínua</li>
+<li>Documente todas as ações de monitoramento e avaliação</li>
+<li>Envolva a equipe e os beneficiários no processo de avaliação</li>
 </ul>
-
 </div>
-
-## 6. Relatórios de Monitoramento
-
-- Prepare relatórios periódicos conforme estabelecido no termo de parceria
-- Inclua informações sobre o progresso, desafios enfrentados e soluções implementadas
-- Use dados e evidências para suportar suas conclusões
-
-## 7. Avaliação de Impacto
-
-- Realize avaliações de impacto para medir as mudanças efetivas causadas pelo projeto
-- Considere contratar avaliadores externos para maior objetividade, se o orçamento permitir
-- Use os resultados da avaliação de impacto para planejar futuros projetos
 
 ## Próximos Passos
 
-Após o monitoramento e avaliação contínuos, o próximo passo crucial é a [Prestação de Contas]({{ site.baseurl }}/prestacao-contas).
+Após o monitoramento e avaliação contínuos, a etapa final é a [Prestação de Contas]({{ site.baseurl }}/prestacao-contas).
 
 [Voltar para o Guia Prático]({{ site.baseurl }}/){: .btn .btn-secondary }
-
-[Voltar para o Início]({{ site.baseurl }}/){: .btn }
-[Próxima Seção]({{ site.baseurl }}/proxima-secao){: .btn }
