@@ -6,6 +6,9 @@ title: Guia Prático para OSCs
 description: Um guia completo para Organizações da Sociedade Civil
 
 header_pages:
+  - index.md
+  - sobre.md
+  - escritorio-projetos-osc/index.md
   - guia-pratico-oscs.md
   - preparacao-inicial.md
   - elaboracao-proposta.md
