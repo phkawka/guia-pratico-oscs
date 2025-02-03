@@ -6,67 +6,60 @@ title: Celebração da Parceria
 <link rel="stylesheet" href="{{ site.font_awesome_url }}">
 {% include nav.html %}
 
-# Celebração da Parceria
+# <i class="fas fa-handshake"></i> Celebração da Parceria
 
-Após a seleção no chamamento público, a próxima etapa é a celebração da parceria. Este é um momento importante que formaliza o acordo entre a OSC e a administração pública.
+A celebração da parceria é a formalização do acordo entre a Organização da Sociedade Civil (OSC) e a administração pública. É um momento crucial que requer atenção aos detalhes e compreensão clara das responsabilidades de ambas as partes.
 
-## 1. Convocação para Celebração
+## <i class="fas fa-file-contract"></i> 1. Convocação para Celebração
 
-- Fique atento à convocação oficial para a celebração da parceria
-- Verifique o prazo para comparecimento e apresentação de documentos adicionais, se houver
+- Após a seleção, a OSC será convocada para assinar o termo de parceria
+- Verifique o prazo estabelecido para a assinatura
 
-## 2. Revisão da Documentação
+## <i class="fas fa-tasks"></i> 2. Plano de Trabalho Final
 
-- Reúna todos os documentos necessários, conforme solicitado no edital
-- Certifique-se de que todas as certidões ainda estão válidas
-- Prepare cópias e originais para autenticação, se necessário
+- Revise o plano de trabalho para garantir que está alinhado com a proposta aprovada
+- Faça ajustes finais, se necessário e permitido
 
-## 3. Ajustes no Plano de Trabalho
+## <i class="fas fa-file-alt"></i> 3. Documentação Complementar
 
-- Esteja preparado para possíveis solicitações de ajustes no plano de trabalho
-- Mantenha-se flexível, mas atento aos objetivos originais do projeto
+Certifique-se de ter em mãos:
+- Cópia do estatuto registrado e suas alterações
+- Ata de eleição da atual diretoria
+- Relação nominal dos dirigentes
+- Comprovante de endereço da OSC
+- Certificações e registros específicos da área de atuação, se aplicável
 
-## 4. Designação do Gestor da Parceria
+## <i class="fas fa-balance-scale"></i> 4. Análise Jurídica
 
-- Identifique quem será o gestor da parceria por parte da administração pública
-- Estabeleça um canal de comunicação claro com este gestor
+- A minuta do termo de parceria passará por análise jurídica do órgão público
+- Esteja preparado para esclarecer dúvidas ou fornecer informações adicionais
 
-## 5. Assinatura do Termo de Parceria
+## <i class="fas fa-signature"></i> 5. Assinatura do Termo
 
-- Leia atentamente todo o termo de parceria antes de assinar
-- Certifique-se de que todos os detalhes acordados estão corretamente descritos no documento
-- Verifique as obrigações de ambas as partes, cronograma de desembolso e metas estabelecidas
+- Leia atentamente todo o documento antes de assinar
+- Certifique-se de que todas as cláusulas estão de acordo com o que foi estabelecido no edital e na proposta
 
-<div style="background-color: #fffacd; border-left: 5px solid #ffd700; padding: 15px; margin-bottom: 20px;">
+## <i class="fas fa-calendar-alt"></i> 6. Publicação do Extrato
 
-<strong>FIQUE LIGADO!</strong>
+- O órgão público deverá publicar o extrato do termo de parceria no meio oficial de publicidade
+- Fique atento à data de publicação, pois geralmente marca o início da vigência da parceria
 
-Antes de assinar o termo de parceria, preste atenção especial a:
+<div class="fique-ligado">
+<strong>FIQUE LIGADO!</strong> 
 
+Antes de assinar o termo de parceria, certifique-se de que:
 <ul>
-  <li><strong>Objeto da parceria</strong>: Deve estar claramente definido e de acordo com a proposta aprovada</li>
-  <li><strong>Vigência</strong>: Verifique as datas de início e término da parceria</li>
-  <li><strong>Valor total e cronograma de desembolso</strong>: Confira se estão de acordo com o planejado</li>
-  <li><strong>Metas e indicadores</strong>: Certifique-se de que são realistas e mensuráveis</li>
-  <li><strong>Obrigações da OSC</strong>: Entenda claramente suas responsabilidades</li>
-  <li><strong>Prestação de contas</strong>: Observe os prazos e requisitos para prestação de contas</li>
+<li>Você compreende todas as obrigações da OSC descritas no termo</li>
+<li>Os valores, prazos e metas estão de acordo com a proposta aprovada</li>
+<li>Você está ciente das sanções previstas em caso de descumprimento</li>
+<li>Toda a documentação exigida está em ordem</li>
 </ul>
 
+Em caso de dúvidas, não hesite em pedir esclarecimentos ao órgão público ou consultar um advogado.
 </div>
-
-## 6. Publicação do Extrato
-
-- A administração pública deve publicar o extrato do termo de parceria no diário oficial
-- Esta publicação marca oficialmente o início da vigência da parceria
-
-## 7. Preparação para Execução
-
-- Reúna sua equipe para alinhar as ações iniciais
-- Revise o cronograma e prepare-se para o início das atividades
-- Estabeleça processos internos para acompanhamento e documentação das ações
 
 ## Próximos Passos
 
-Com a parceria celebrada, o próximo passo é a [Execução do Projeto]({{ site.baseurl }}/execucao-projeto).
+Após a celebração da parceria, o próximo passo é a [Execução do Projeto]({{ site.baseurl }}/execucao-projeto).
 
 [Voltar para o Guia Prático]({{ site.baseurl }}/){: .btn .btn-secondary }
