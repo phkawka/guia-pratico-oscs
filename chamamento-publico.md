@@ -8,7 +8,7 @@ title: Participação no Chamamento Público
 
 # <i class="fas fa-bullhorn"></i> Participação no Chamamento Público
 
-O chamamento público é o procedimento destinado a selecionar organizações da sociedade civil para firmar parcerias com a administração pública. É uma etapa crucial no processo de estabelecimento de parcerias e requer atenção aos detalhes e cumprimento rigoroso das regras estabelecidas.
+O chamamento público é o procedimento destinado a selecionar organizações da sociedade civil para firmar parcerias com a administração pública. É uma etapa crucial que requer atenção aos detalhes e cumprimento rigoroso das regras estabelecidas.
 
 ## <i class="fas fa-book-reader"></i> 1. Compreensão do Edital
 
@@ -16,6 +16,10 @@ O chamamento público é o procedimento destinado a selecionar organizações da
 - Anote os prazos importantes
 - Identifique todos os documentos necessários
 - Verifique os critérios de seleção e pontuação
+
+**Base Legal:** Art. 24 da Lei 13.019/2014
+
+**Prazo:** O edital deve ser amplamente divulgado em página do sítio oficial da administração pública na internet, com antecedência mínima de 30 (trinta) dias (Art. 26 da Lei 13.019/2014).
 
 <div class="fique-ligado">
 <strong>FIQUE LIGADO!</strong> 
@@ -43,6 +47,10 @@ Certifique-se de que sua organização atende a todos os requisitos de elegibili
 - Capacidade técnica e operacional
 - Regularidade jurídica e fiscal
 
+**Base Legal:** Art. 33 e Art. 34 da Lei 13.019/2014
+
+**Prazo:** A OSC deve ter no mínimo 1, 2 ou 3 anos de existência, dependendo da esfera governamental (Art. 33, V, a da Lei 13.019/2014).
+
 ## <i class="fas fa-file-alt"></i> 3. Preparação da Documentação
 
 Reúna todos os documentos exigidos, que podem incluir:
@@ -54,6 +62,8 @@ Reúna todos os documentos exigidos, que podem incluir:
 - Certidões de regularidade fiscal
 - Cópia de documento que comprove o funcionamento no endereço declarado
 
+**Base Legal:** Art. 34 da Lei 13.019/2014
+
 ## <i class="fas fa-tasks"></i> 4. Elaboração do Plano de Trabalho
 
 Desenvolva um plano de trabalho detalhado, conforme as exigências do edital, incluindo:
@@ -63,6 +73,8 @@ Desenvolva um plano de trabalho detalhado, conforme as exigências do edital, in
 - Forma de execução das atividades
 - Definição dos parâmetros para aferição do cumprimento das metas
 
+**Base Legal:** Art. 22 da Lei 13.019/2014
+
 ## <i class="fas fa-calculator"></i> 5. Orçamento Detalhado
 
 Prepare um orçamento detalhado e realista, considerando:
@@ -70,6 +82,8 @@ Prepare um orçamento detalhado e realista, considerando:
 - Todas as despesas necessárias para a execução do projeto
 - Conformidade com os valores de mercado
 - Adequação aos limites e diretrizes estabelecidos no edital
+
+**Base Legal:** Art. 22, II-A da Lei 13.019/2014
 
 ## <i class="fas fa-users"></i> 6. Participação em Sessão Pública
 
@@ -79,16 +93,24 @@ Se houver uma sessão pública de abertura das propostas:
 - Esteja pronto para responder a questionamentos
 - Leve todos os documentos originais para conferência
 
+**Base Legal:** Art. 28 da Lei 13.019/2014
+
 ## <i class="fas fa-search"></i> 7. Acompanhamento do Processo
 
 - Fique atento às publicações oficiais sobre o processo
 - Respeite os prazos para recursos ou esclarecimentos, se necessário
 - Mantenha-se disponível para fornecer informações adicionais, se solicitado
 
+**Prazo:** O prazo para interposição de recurso contra decisões é de 5 (cinco) dias, contado da publicação da decisão ou do ato (Art. 73, XV da Lei 13.019/2014).
+
 ## <i class="fas fa-flag-checkered"></i> 8. Resultado e Próximos Passos
 
 - Se selecionado, prepare-se para a fase de celebração da parceria
 - Se não selecionado, solicite feedback para melhorias futuras
+
+**Base Legal:** Art. 27 da Lei 13.019/2014
+
+**Prazo:** A administração pública homologará e divulgará o resultado do julgamento em página do sítio oficial da administração pública na internet ou sítio eletrônico oficial equivalente (Art. 27, §4º da Lei 13.019/2014).
 
 ## Próximos Passos
 
