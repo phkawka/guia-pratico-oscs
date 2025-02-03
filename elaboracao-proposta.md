@@ -6,11 +6,11 @@ title: Elaboração de Proposta
 <link rel="stylesheet" href="{{ site.font_awesome_url }}">
 {% include nav.html %}
 
-# Elaboração de Proposta
+# <i class="fas fa-pencil-alt"></i> Elaboração de Proposta
 
 A elaboração de uma proposta sólida é crucial para o sucesso da sua parceria com o poder público. Esta etapa requer atenção aos detalhes, planejamento cuidadoso e alinhamento com os objetivos do edital de chamamento público.
 
-## 1. Análise do Edital
+## <i class="fas fa-search"></i> 1. Análise do Edital
 
 Antes de começar a elaborar sua proposta:
 - Leia atentamente todo o edital
@@ -18,7 +18,7 @@ Antes de começar a elaborar sua proposta:
 - Verifique os critérios de avaliação
 - Observe os prazos e a documentação necessária
 
-## 2. Definição do Objeto
+## <i class="fas fa-bullseye"></i> 2. Definição do Objeto
 
 Descreva claramente o que será realizado:
 - Objetivo geral do projeto
@@ -26,53 +26,53 @@ Descreva claramente o que será realizado:
 - Público-alvo
 - Área de atuação
 
-## 3. Justificativa
+## <i class="fas fa-file-alt"></i> 3. Justificativa
 
 Explique por que o projeto é importante:
 - Contexto social do problema a ser abordado
 - Dados e estatísticas relevantes
 - Como o projeto contribuirá para a solução do problema
 
-## 4. Metodologia
+## <i class="fas fa-cogs"></i> 4. Metodologia
 
 Detalhe como o projeto será executado:
 - Atividades a serem realizadas
 - Cronograma de execução
 - Recursos necessários (humanos, materiais, financeiros)
 
-## 5. Metas e Indicadores
+## <i class="fas fa-chart-line"></i> 5. Metas e Indicadores
 
 Estabeleça metas claras e mensuráveis:
 - Resultados esperados
 - Indicadores de desempenho
 - Meios de verificação
 
-## 6. Orçamento Detalhado
+## <i class="fas fa-calculator"></i> 6. Orçamento Detalhado
 
 Apresente um orçamento realista e detalhado:
 - Custos por atividade
 - Contrapartida da OSC (se aplicável)
 - Cronograma de desembolso
 
-## 7. Equipe do Projeto
+## <i class="fas fa-users"></i> 7. Equipe do Projeto
 
 Descreva a equipe que trabalhará no projeto:
 - Funções e responsabilidades
 - Qualificações relevantes
 
-## 8. Parcerias e Articulações
+## <i class="fas fa-handshake"></i> 8. Parcerias e Articulações
 
 Se aplicável, mencione:
 - Parcerias com outras organizações
 - Articulações com políticas públicas existentes
 
-## 9. Sustentabilidade do Projeto
+## <i class="fas fa-seedling"></i> 9. Sustentabilidade do Projeto
 
 Explique como o projeto continuará após o término da parceria:
 - Estratégias de continuidade
 - Potenciais fontes de recursos futuros
 
-## 10. Revisão e Ajustes
+## <i class="fas fa-check-double"></i> 10. Revisão e Ajustes
 
 Antes de submeter:
 - Revise cuidadosamente toda a proposta
@@ -84,3 +84,7 @@ Antes de submeter:
 Após finalizar sua proposta, você estará pronto para a [Participação no Chamamento Público]({{ site.baseurl }}/chamamento-publico).
 
 [Voltar para o Guia Prático]({{ site.baseurl }}/){: .btn .btn-secondary }
+
+<div class="fique-ligado">
+  <strong>FIQUE LIGADO!</strong> Uma proposta bem elaborada aumenta significativamente suas chances de sucesso no processo de seleção.
+</div>
