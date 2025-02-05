@@ -1,3 +1,6 @@
+
+{% include escritorio-menu.html %}
+
 # Modelo de Análise de Edital
 
 Use este modelo para analisar sistematicamente os editais de chamamento público. Preencha as informações solicitadas para ter uma visão clara dos requisitos e oportunidades.
