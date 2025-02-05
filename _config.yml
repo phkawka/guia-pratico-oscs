@@ -17,6 +17,7 @@ header_pages:
   - execucao-projeto.md
   - monitoramento-avaliacao.md
   - prestacao-contas.md
+  - planejamento/ferramenta-interativa-proposta.md
 
 # Configurações adicionais para melhorar a funcionalidade
 markdown: kramdown
