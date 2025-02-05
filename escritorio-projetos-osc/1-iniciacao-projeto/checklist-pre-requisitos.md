@@ -1,3 +1,7 @@
+
+{% include escritorio-menu.html %}
+
+
 # Checklist de Pré-requisitos para Participação em Editais
 
 Use este checklist interativo para avaliar a prontidão da sua OSC para participar de editais de chamamento público.
