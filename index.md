@@ -1,25 +1,26 @@
 ---
 layout: default
-title: Guia Prático para OSCs
+title: Escritório de Projetos OSC
 ---
 
-# Guia Prático para OSCs
+{% include escritorio-menu.html %}
 
-Bem-vindo ao Guia Prático para Organizações da Sociedade Civil (OSCs). Este guia fornece informações essenciais para a gestão eficaz de OSCs e seus projetos.
+# Escritório de Projetos OSC
 
-## Seções do Guia
+Bem-vindo ao Escritório de Projetos OSC, seu recurso especializado para gerenciamento de projetos em Organizações da Sociedade Civil.
 
-- [Sobre o Guia](./sobre)
-- [Preparação Inicial](./preparacao-inicial)
-- [Elaboração de Proposta](./elaboracao-proposta)
-- [Chamamento Público](./chamamento-publico)
-- [Celebração da Parceria](./celebracao-parceria)
-- [Execução do Projeto](./execucao-projeto)
-- [Monitoramento e Avaliação](./monitoramento-avaliacao)
-- [Prestação de Contas](./prestacao-contas)
+## Seções
 
-## Escritório de Projetos OSC
+1. [Iniciação do Projeto](./1-iniciacao-projeto/)
+   - [Checklist de Pré-requisitos](./1-iniciacao-projeto/checklist-pre-requisitos)
+   - [Modelo de Análise de Edital](./1-iniciacao-projeto/modelo-analise-edital)
+   - [Avaliação de Capacidade Institucional](./1-iniciacao-projeto/avaliacao-capacidade-institucional)
 
-Para um suporte mais detalhado no gerenciamento de projetos, visite nosso Escritório de Projetos OSC:
+2. [Planejamento do Projeto](./Planejamento/)
+   - [Ferramenta Interativa de Elaboração de Proposta](./Planejamento/ferramenta-interativa-proposta)
 
-[<button style="background-color: #4CAF50; border: none; color: white; padding: 15px 32px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer;">Acessar Escritório de Projetos OSC</button>](./escritorio-projetos-osc)
+3. [Execução do Projeto](./execucao/) (Em breve)
+4. [Monitoramento e Controle](./monitoramento/) (Em breve)
+5. [Encerramento do Projeto](./encerramento/) (Em breve)
+
+[<button style="background-color: #4CAF50; border: none; color: white; padding: 15px 32px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer;">Voltar ao Guia Prático para OSCs</button>]({{ site.baseurl }}/)
