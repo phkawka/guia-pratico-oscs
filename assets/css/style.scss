@@ -15,7 +15,7 @@ body {
   max-width: 800px;
   margin: 0 auto;
   padding: 2rem 4rem;
-  }
+}
 
 .page-header {
   background-color: #159957;
@@ -103,4 +103,40 @@ h1 .fas, h1 .fab, h1 .far {
 
 h2 .fas, h2 .fab, h2 .far {
   font-size: 0.8em;
+}
+
+// Novo estilo para o menu do Escritório de Projetos OSC
+.escritorio-menu {
+  background-color: #e9ecef;
+  padding: 1rem 0;
+  margin-bottom: 2rem;
+  text-align: center;
+  
+  .nav-link {
+    display: inline-block;
+    padding: 0.5rem 1rem;
+    color: #495057;
+    text-decoration: none;
+    
+    &:hover {
+      color: #007bff;
+      background-color: #f8f9fa;
+    }
+  }
+}
+
+// Estilo para o botão de voltar
+.voltar-btn {
+  display: inline-block;
+  margin-top: 2rem;
+  padding: 0.75rem 1.5rem;
+  background-color: #4CAF50;
+  color: white;
+  text-decoration: none;
+  border-radius: 0.3rem;
+  transition: background-color 0.2s;
+
+  &:hover {
+    background-color: #45a049;
+  }
 }
