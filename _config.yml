@@ -8,7 +8,6 @@ description: Um guia completo para Organizações da Sociedade Civil
 header_pages:
   - index.md
   - sobre.md
-  - escritorio-projetos-osc/index.md
   - guia-pratico-oscs.md
   - preparacao-inicial.md
   - elaboracao-proposta.md
@@ -17,7 +16,6 @@ header_pages:
   - execucao-projeto.md
   - monitoramento-avaliacao.md
   - prestacao-contas.md
-  - planejamento/ferramenta-interativa-proposta.md
 
 # Configurações adicionais para melhorar a funcionalidade
 markdown: kramdown
