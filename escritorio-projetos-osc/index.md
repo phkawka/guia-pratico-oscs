@@ -15,7 +15,7 @@ Bem-vindo ao Escritório de Projetos OSC, seu guia prático para gerenciar proje
    - [Avaliação de Capacidade Institucional](./1-iniciacao-projeto/avaliacao-capacidade-institucional)
 
 2. [Planejamento do Projeto](./Planejamento/)
-   - [Ferramenta Interativa de Elaboração de Proposta](./Planejamento/ferramenta-interativa-proposta)
+   - [Ferramenta Interativa de Elaboração de Proposta](./planejamento/ferramenta-interativa-proposta)
 
 3. Elaboração da Proposta (Em breve)
 4. Chamamento Público (Em breve)
