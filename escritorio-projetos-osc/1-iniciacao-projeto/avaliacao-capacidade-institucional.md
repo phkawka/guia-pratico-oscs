@@ -3,6 +3,8 @@ layout: default
 title: Avaliação de Capacidade Institucional
 ---
 
+{% include escritorio-menu.html %}
+
 # Avaliação de Capacidade Institucional
 
 <form id="avaliacaoForm">
