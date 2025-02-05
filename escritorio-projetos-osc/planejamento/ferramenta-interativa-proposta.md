@@ -1,11 +1,9 @@
 ---
-layout: page
+layout: default
 title: Ferramenta Interativa de Elaboração de Proposta
-permalink: /planejamento/ferramenta-interativa/
 ---
 
 # Ferramenta Interativa de Elaboração de Proposta
-
 Esta ferramenta irá guiá-lo passo a passo na elaboração de sua proposta. Responda às perguntas com o máximo de detalhes possível para criar uma proposta completa e convincente.
 
 <div id="propostaForm">
@@ -112,3 +110,4 @@ function imprimirProposta() {
   janelaImprimir.print();
 }
 </script>
+[<button style="background-color: #4CAF50; border: none; color: white; padding: 15px 32px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer;">Voltar ao Escritório de Projetos OSC</button>](../)
