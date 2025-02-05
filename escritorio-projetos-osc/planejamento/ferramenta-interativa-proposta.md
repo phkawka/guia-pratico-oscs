@@ -3,6 +3,8 @@ layout: default
 title: Ferramenta Interativa de Elaboração de Proposta
 ---
 
+{% include escritorio-menu.html %}
+
 # Ferramenta Interativa de Elaboração de Proposta
 
 <div id="propostaForm">
@@ -26,12 +28,23 @@ title: Ferramenta Interativa de Elaboração de Proposta
 
 <script>
 function gerarProposta() {
-  // Código JavaScript para gerar a proposta
+  var proposta = document.getElementById('conteudoProposta');
+  var html = '<h1>' + document.getElementById('tituloProjeto').value + '</h1>';
+  html += '<p><strong>Objetivo Principal:</strong> ' + document.getElementById('objetivoPrincipal').value + '</p>';
+  // Adicione mais campos conforme necessário
+  proposta.innerHTML = html;
+  document.getElementById('propostaGerada').style.display = 'block';
 }
 
 function imprimirProposta() {
-  // Código JavaScript para imprimir a proposta
+  var conteudo = document.getElementById('conteudoProposta').innerHTML;
+  var janelaImprimir = window.open('', '', 'width=800,height=600');
+  janelaImprimir.document.write('<html><head><title>Proposta de Projeto</title></head><body>');
+  janelaImprimir.document.write(conteudo);
+  janelaImprimir.document.write('</body></html>');
+  janelaImprimir.document.close();
+  janelaImprimir.print();
 }
 </script>
 
-[<button style="background-color: #4CAF50; border: none; color: white; padding: 15px 32px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer;">Voltar ao Escritório de Projetos OSC</button>](../)
+[<button style="background-color: #4CAF50; border: none; color: white; padding: 15px 32px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer;">Voltar ao Escritório de Projetos OSC</button>]({{ site.baseurl }}/escritorio-projetos-osc/)
