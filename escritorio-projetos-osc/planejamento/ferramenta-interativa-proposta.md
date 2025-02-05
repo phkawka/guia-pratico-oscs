@@ -4,7 +4,6 @@ title: Ferramenta Interativa de Elaboração de Proposta
 ---
 
 {% include nav.html %}
-{% include escritorio-menu.html %}
 
 # Ferramenta Interativa de Elaboração de Proposta
 
