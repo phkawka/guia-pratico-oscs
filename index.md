@@ -3,24 +3,23 @@ layout: default
 title: Guia Prático para OSCs
 ---
 
-<link rel="stylesheet" href="{{ site.font_awesome_url }}">
+# Guia Prático para OSCs
 
-{% include nav.html %}
-
-# <i class="fas fa-book"></i> Guia Prático para OSCs
-
-Bem-vindo ao Guia Prático para Organizações da Sociedade Civil (OSCs). Este guia foi desenvolvido para auxiliar as OSCs em todas as etapas de parcerias com o poder público.
+Bem-vindo ao Guia Prático para Organizações da Sociedade Civil (OSCs). Este guia fornece informações essenciais para a gestão eficaz de OSCs e seus projetos.
 
 ## Seções do Guia
 
-- <i class="fas fa-clipboard-list"></i> [Preparação Inicial]({{ site.baseurl }}/preparacao-inicial)
-- <i class="fas fa-pencil-alt"></i> [Elaboração de Proposta]({{ site.baseurl }}/elaboracao-proposta)
-- <i class="fas fa-bullhorn"></i> [Chamamento Público]({{ site.baseurl }}/chamamento-publico)
-- <i class="fas fa-handshake"></i> [Celebração da Parceria]({{ site.baseurl }}/celebracao-parceria)
-- <i class="fas fa-tasks"></i> [Execução do Projeto]({{ site.baseurl }}/execucao-projeto)
-- <i class="fas fa-chart-line"></i> [Monitoramento e Avaliação]({{ site.baseurl }}/monitoramento-avaliacao)
-- <i class="fas fa-file-invoice-dollar"></i> [Prestação de Contas]({{ site.baseurl }}/prestacao-contas)
+- [Sobre o Guia](./sobre)
+- [Preparação Inicial](./preparacao-inicial)
+- [Elaboração de Proposta](./elaboracao-proposta)
+- [Chamamento Público](./chamamento-publico)
+- [Celebração da Parceria](./celebracao-parceria)
+- [Execução do Projeto](./execucao-projeto)
+- [Monitoramento e Avaliação](./monitoramento-avaliacao)
+- [Prestação de Contas](./prestacao-contas)
 
-<div class="fique-ligado">
-  <strong>FIQUE LIGADO!</strong> Este guia é uma ferramenta viva e será atualizado regularmente. Confira sempre a data da última atualização.
-</div>
+## Escritório de Projetos OSC
+
+Para um suporte mais detalhado no gerenciamento de projetos, visite nosso Escritório de Projetos OSC:
+
+[<button style="background-color: #4CAF50; border: none; color: white; padding: 15px 32px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer;">Acessar Escritório de Projetos OSC</button>](./escritorio-projetos-osc)
