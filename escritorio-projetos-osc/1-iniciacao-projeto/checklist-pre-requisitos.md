@@ -57,3 +57,4 @@ function avaliarProntidao() {
 Se você marcou todos os itens, sua OSC está bem posicionada para participar de editais. Caso contrário, trabalhe nos itens não marcados para aumentar suas chances de sucesso.
 
 Lembre-se: este checklist é uma ferramenta de autoavaliação. Consulte sempre o edital específico e a Lei 13.019/2014 para requisitos detalhados.
+[<button style="background-color: #4CAF50; border: none; color: white; padding: 15px 32px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer;">Voltar ao Escritório de Projetos OSC</button>](../)
