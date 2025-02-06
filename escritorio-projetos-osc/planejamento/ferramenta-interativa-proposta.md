@@ -3,8 +3,6 @@ layout: default
 title: Ferramenta Interativa de Elaboração de Proposta
 ---
 
-{% include nav.html %}
-
 # Ferramenta Interativa de Elaboração de Proposta
 
 <div id="propostaForm">
@@ -25,25 +23,21 @@ title: Ferramenta Interativa de Elaboração de Proposta
 </div>
 
 <script>
-document.addEventListener('DOMContentLoaded', function() {
-  window.gerarProposta = function() {
-    var proposta = document.getElementById('conteudoProposta');
-    var html = '<h1>' + document.getElementById('tituloProjeto').value + '</h1>';
-    html += '<p><strong>Objetivo Principal:</strong> ' + document.getElementById('objetivoPrincipal').value + '</p>';
-    proposta.innerHTML = html;
-    document.getElementById('propostaGerada').style.display = 'block';
-  }
+function gerarProposta() {
+  var proposta = document.getElementById('conteudoProposta');
+  var html = '<h1>' + document.getElementById('tituloProjeto').value + '</h1>';
+  html += '<p><strong>Objetivo Principal:</strong> ' + document.getElementById('objetivoPrincipal').value + '</p>';
+  proposta.innerHTML = html;
+  document.getElementById('propostaGerada').style.display = 'block';
+}
 
-  window.imprimirProposta = function() {
-    var conteudo = document.getElementById('conteudoProposta').innerHTML;
-    var janelaImprimir = window.open('', '', 'width=800,height=600');
-    janelaImprimir.document.write('<html><head><title>Proposta de Projeto</title></head><body>');
-    janelaImprimir.document.write(conteudo);
-    janelaImprimir.document.write('</body></html>');
-    janelaImprimir.document.close();
-    janelaImprimir.print();
-  }
-});
+function imprimirProposta() {
+  var conteudo = document.getElementById('conteudoProposta').innerHTML;
+  var janelaImprimir = window.open('', '', 'width=800,height=600');
+  janelaImprimir.document.write('<html><head><title>Proposta de Projeto</title></head><body>');
+  janelaImprimir.document.write(conteudo);
+  janelaImprimir.document.write('</body></html>');
+  janelaImprimir.document.close();
+  janelaImprimir.print();
+}
 </script>
-
-<a href="{{ site.baseurl }}/escritorio-projetos-osc/" class="voltar-btn">Voltar ao Escritório de Projetos OSC</a>
