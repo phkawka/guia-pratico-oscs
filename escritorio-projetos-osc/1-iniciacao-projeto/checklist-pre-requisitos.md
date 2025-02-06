@@ -1,5 +1,5 @@
 
-{% include escritorio-menu.html %}
+{% include nav.html %}
 
 
 # Checklist de Pré-requisitos para Participação em Editais
