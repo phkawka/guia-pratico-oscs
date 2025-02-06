@@ -17,17 +17,14 @@ header_pages:
   - monitoramento-avaliacao.md
   - prestacao-contas.md
 
-# Configurações adicionais para melhorar a funcionalidade
 markdown: kramdown
 kramdown:
   input: GFM
   syntax_highlighter: rouge
 
-# Configurações de URL (ajuste conforme necessário)
 baseurl: "/guia-pratico-oscs"
-url: "https://seunome.github.io"
+url: "https://seu-nome-de-usuario-real.github.io"
 
-# Excluir arquivos desnecessários da compilação
 exclude:
   - Gemfile
   - Gemfile.lock
@@ -38,16 +35,13 @@ exclude:
   - vendor/ruby/
   - README.md
 
-# Configurações padrão para todas as páginas
 defaults:
   -
     scope:
-      path: "" # um valor vazio significa todos os arquivos no projeto
+      path: ""
     values:
       layout: "default"
 
-# Desativar downloads no tema Cayman
 show_downloads: false
 
-# Adicione esta linha no seu _config.yml
 font_awesome_url: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css
