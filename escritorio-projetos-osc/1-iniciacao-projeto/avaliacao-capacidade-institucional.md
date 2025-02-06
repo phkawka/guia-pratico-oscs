@@ -3,7 +3,7 @@ layout: default
 title: Avaliação de Capacidade Institucional
 ---
 
-{% include escritorio-menu.html %}
+{% include nav.html %}
 
 # Avaliação de Capacidade Institucional
 
