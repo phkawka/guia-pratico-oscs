@@ -23,7 +23,7 @@ kramdown:
   syntax_highlighter: rouge
 
 baseurl: "/guia-pratico-oscs"
-url: "https://seu-nome-de-usuario-real.github.io"
+url: "https://phkawka.github.io"
 
 exclude:
   - Gemfile
