@@ -9,7 +9,7 @@ Bem-vindo ao Escritório de Projetos OSC. Aqui você encontrará recursos e ferr
 
 ## Ferramentas Disponíveis
 
-- [Ferramenta Interativa de Elaboração de Proposta](./planejamento/ferramenta-interativa.html)
+- [Ferramenta Interativa de Elaboração de Proposta](./planejamento/ferramenta-interativa)
 
 ## Seções
 
