@@ -5,7 +5,7 @@ title: Ferramenta Interativa de Elaboração de Proposta
 
 # Ferramenta Interativa de Elaboração de Proposta
 
-{% include escritorio-menu.html %}
+{% include nav.html %}
 
 <div id="propostaForm">
   <h2>1. Resumo Executivo</h2>
