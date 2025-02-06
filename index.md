@@ -1,26 +1,30 @@
 ---
 layout: default
-title: Escritório de Projetos OSC
+title: Guia Prático para OSCs
 ---
 
-{% include escritorio-menu.html %}
+{% include nav.html %}
 
-# Escritório de Projetos OSC
+# Guia Prático para OSCs
 
-Bem-vindo ao Escritório de Projetos OSC, seu recurso especializado para gerenciamento de projetos em Organizações da Sociedade Civil.
+Bem-vindo ao Guia Prático para Organizações da Sociedade Civil (OSCs). Este guia foi desenvolvido para auxiliar as OSCs em todas as etapas de seus projetos, desde a preparação inicial até a prestação de contas.
 
-## Seções
+## Conteúdo do Guia
 
-1. [Iniciação do Projeto](./1-iniciacao-projeto/)
-   - [Checklist de Pré-requisitos](./1-iniciacao-projeto/checklist-pre-requisitos)
-   - [Modelo de Análise de Edital](./1-iniciacao-projeto/modelo-analise-edital)
-   - [Avaliação de Capacidade Institucional](./1-iniciacao-projeto/avaliacao-capacidade-institucional)
+1. [Preparação Inicial]({{ site.baseurl }}/preparacao-inicial)
+2. [Elaboração de Proposta]({{ site.baseurl }}/elaboracao-proposta)
+3. [Chamamento Público]({{ site.baseurl }}/chamamento-publico)
+4. [Celebração da Parceria]({{ site.baseurl }}/celebracao-parceria)
+5. [Execução do Projeto]({{ site.baseurl }}/execucao-projeto)
+6. [Monitoramento e Avaliação]({{ site.baseurl }}/monitoramento-avaliacao)
+7. [Prestação de Contas]({{ site.baseurl }}/prestacao-contas)
 
-2. [Planejamento do Projeto](./Planejamento/)
-   - [Ferramenta Interativa de Elaboração de Proposta](./Planejamento/ferramenta-interativa-proposta)
+## Escritório de Projetos OSC
 
-3. [Execução do Projeto](./execucao/) (Em breve)
-4. [Monitoramento e Controle](./monitoramento/) (Em breve)
-5. [Encerramento do Projeto](./encerramento/) (Em breve)
+Acesse nosso [Escritório de Projetos OSC]({{ site.baseurl }}/escritorio-projetos-osc) para ferramentas e recursos adicionais para gerenciamento de projetos.
 
-[<button style="background-color: #4CAF50; border: none; color: white; padding: 15px 32px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer;">Voltar ao Guia Prático para OSCs</button>]({{ site.baseurl }}/)
+## Sobre o Guia
+
+Este guia foi desenvolvido com base na Lei 13.019/2014 e outras legislações relevantes. Para mais informações sobre o guia e seus desenvolvedores, visite nossa [página Sobre]({{ site.baseurl }}/sobre).
+
+[Iniciar o Guia]({{ site.baseurl }}/preparacao-inicial){: .btn .btn-primary }
