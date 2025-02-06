@@ -5,6 +5,8 @@ title: Escritório de Projetos OSC
 
 # Escritório de Projetos OSC
 
+{% include escritorio-menu.html %}
+
 Bem-vindo ao Escritório de Projetos OSC. Aqui você encontrará recursos e ferramentas para ajudar na gestão de projetos de sua organização.
 
 ## Ferramentas Disponíveis
@@ -19,5 +21,11 @@ Bem-vindo ao Escritório de Projetos OSC. Aqui você encontrará recursos e ferr
    - [Modelo de Análise de Edital](./1-iniciacao-projeto/modelo-analise-edital)
 
 2. [Planejamento](./planejamento)
+
+3. [Execução do Projeto](./execucao)
+
+4. [Monitoramento e Controle](./monitoramento)
+
+5. [Encerramento do Projeto](./encerramento)
 
 [Voltar para a página inicial]({{ site.baseurl }}/)
