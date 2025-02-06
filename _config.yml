@@ -25,6 +25,9 @@ kramdown:
 baseurl: "/guia-pratico-oscs"
 url: "https://phkawka.github.io"
 
+include:
+  - _includes
+
 exclude:
   - Gemfile
   - Gemfile.lock
