@@ -1,5 +1,5 @@
 
-{% include nav.html %}
+{% include escritorio-nav.html %}
 
 # Modelo de Análise de Edital
 
