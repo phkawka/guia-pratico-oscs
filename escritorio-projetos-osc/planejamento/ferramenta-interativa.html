@@ -4,51 +4,9 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Ferramenta Interativa de Elaboração de Proposta</title>
-    <style>
-        body { font-family: Arial, sans-serif; line-height: 1.6; padding: 20px; }
-        input, textarea { width: 100%; padding: 8px; margin-bottom: 10px; }
-        button { background-color: #4CAF50; color: white; padding: 10px 15px; border: none; cursor: pointer; }
-        button:hover { background-color: #45a049; }
-    </style>
 </head>
 <body>
     <h1>Ferramenta Interativa de Elaboração de Proposta</h1>
-    
-    <div id="propostaForm">
-        <h2>1. Resumo Executivo</h2>
-        <label for="tituloProjeto">Qual é o título do seu projeto?</label>
-        <input type="text" id="tituloProjeto" name="tituloProjeto">
-
-        <label for="objetivoPrincipal">Qual é o objetivo principal do projeto?</label>
-        <textarea id="objetivoPrincipal" name="objetivoPrincipal" rows="3"></textarea>
-
-        <button onclick="gerarProposta()">Gerar Proposta</button>
-    </div>
-
-    <div id="propostaGerada" style="display:none;">
-        <h2>Proposta Gerada</h2>
-        <div id="conteudoProposta"></div>
-        <button onclick="imprimirProposta()">Imprimir Proposta</button>
-    </div>
-
-    <script>
-        function gerarProposta() {
-            var proposta = document.getElementById('conteudoProposta');
-            var html = '<h1>' + document.getElementById('tituloProjeto').value + '</h1>';
-            html += '<p><strong>Objetivo Principal:</strong> ' + document.getElementById('objetivoPrincipal').value + '</p>';
-            proposta.innerHTML = html;
-            document.getElementById('propostaGerada').style.display = 'block';
-        }
-
-        function imprimirProposta() {
-            var conteudo = document.getElementById('conteudoProposta').innerHTML;
-            var janelaImprimir = window.open('', '', 'width=800,height=600');
-            janelaImprimir.document.write('<html><head><title>Proposta de Projeto</title></head><body>');
-            janelaImprimir.document.write(conteudo);
-            janelaImprimir.document.write('</body></html>');
-            janelaImprimir.document.close();
-            janelaImprimir.print();
-        }
-    </script>
+    <p>Esta é uma página de teste para a ferramenta interativa.</p>
 </body>
 </html>
