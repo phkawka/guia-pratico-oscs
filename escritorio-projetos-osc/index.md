@@ -5,7 +5,7 @@ title: Escritório de Projetos OSC
 
 # Escritório de Projetos OSC
 
-{% include escritorio-menu.html %}
+{% include nav.html %}
 
 Bem-vindo ao Escritório de Projetos OSC. Aqui você encontrará recursos e ferramentas para ajudar na gestão de projetos de sua organização.
 
