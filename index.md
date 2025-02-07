@@ -5,11 +5,11 @@ title: Guia Prático para OSCs
 
 <link rel="stylesheet" href="{{ site.font_awesome_url }}">
 
-<div class="main-content-wrapper">
+<div class="main-content">
   <nav class="side-nav">
     {% include nav.html %}
   </nav>
-  <div class="main-content">
+  <div class="content-wrapper">
     <h1><i class="fas fa-book"></i> Guia Prático para OSCs</h1>
 
     <p>Bem-vindo ao Guia Prático para Organizações da Sociedade Civil (OSCs). Este guia foi desenvolvido para auxiliar as OSCs em todas as etapas de seus projetos, desde a preparação inicial até a prestação de contas.</p>
