@@ -77,7 +77,60 @@ body {
   }
 }
 
-// Outros estilos (botões, fique-ligado, etc.) permanecem inalterados
+.btn {
+  display: inline-block;
+  margin-bottom: 1rem;
+  color: rgba(255, 255, 255, 0.7);
+  background-color: rgba(255, 255, 255, 0.08);
+  border-color: rgba(255, 255, 255, 0.2);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 0.3rem;
+  transition: color 0.2s, background-color 0.2s, border-color 0.2s;
+
+  &:hover {
+    color: rgba(255, 255, 255, 0.8);
+    text-decoration: none;
+    background-color: rgba(255, 255, 255, 0.2);
+    border-color: rgba(255, 255, 255, 0.3);
+  }
+}
+
+.fique-ligado {
+  background-color: #fffacd;
+  border-left: 5px solid #ffd700;
+  padding: 15px;
+  margin-bottom: 20px;
+  font-style: italic;
+  position: relative;
+  padding-left: 50px;
+
+  &:before {
+    content: "\f071";
+    font-family: "Font Awesome 5 Free";
+    font-weight: 900;
+    position: absolute;
+    left: 15px;
+    top: 50%;
+    transform: translateY(-50%);
+    font-size: 1.5em;
+    color: #ffd700;
+  }
+}
+
+// Estilos para ícones
+.fas, .fab, .far {
+  margin-right: 0.5rem;
+  color: $section-headings-color;
+}
+
+h1 .fas, h1 .fab, h1 .far {
+  font-size: 0.9em;
+}
+
+h2 .fas, h2 .fab, h2 .far {
+  font-size: 0.8em;
+}
 
 // Ajustes responsivos
 @media screen and (max-width: 768px) {
