@@ -140,3 +140,24 @@ h2 .fas, h2 .fab, h2 .far {
     background-color: #45a049;
   }
 }
+
+// Remover o botão "View on GitHub"
+.page-header {
+  .btn {
+    display: none !important;
+  }
+}
+
+.project-tagline + .btn {
+  display: none !important;
+}
+
+// Ajustar o espaçamento do cabeçalho
+.page-header {
+  padding-bottom: 1rem !important;
+}
+
+// Ocultar qualquer elemento com classe 'github-button'
+.github-button {
+  display: none !important;
+}
