@@ -21,3 +21,5 @@ Bem-vindo ao Guia Prático para Organizações da Sociedade Civil (OSCs). Este g
 7. [Prestação de Contas]({{ site.baseurl }}/prestacao-contas)
 
 [Começar pela Preparação Inicial]({{ site.baseurl }}/preparacao-inicial){: .btn .btn-primary }
+
+<script src="{{ site.baseurl }}/assets/js/layout.js"></script>
