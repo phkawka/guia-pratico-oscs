@@ -99,3 +99,5 @@ Na prestação de contas:
 Parabéns! Você chegou ao final do processo de parceria com o poder público. Lembre-se de que cada experiência é uma oportunidade de aprendizado e aperfeiçoamento para futuras colaborações.
 
 [Voltar para o Guia Prático]({{ site.baseurl }}/){: .btn .btn-secondary }
+
+<script src="{{ site.baseurl }}/assets/js/layout.js"></script>
