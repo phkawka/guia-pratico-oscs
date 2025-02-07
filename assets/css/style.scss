@@ -115,8 +115,20 @@ h2 .fas, h2 .fab, h2 .far {
   }
 }
 
+.menu-toggle {
+  display: none;
+}
+
 // Ajustes responsivos
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 42em) {
+  .page-header {
+    padding: 1rem;
+  }
+
+  .project-name {
+    font-size: 1.75rem;
+  }
+
   .main-content {
     padding: 2rem 1rem;
   }
