@@ -100,3 +100,5 @@ Durante a execução do projeto:
 Após a execução do projeto, a próxima etapa é o [Monitoramento e Avaliação]({{ site.baseurl }}/monitoramento-avaliacao).
 
 [Voltar para o Guia Prático]({{ site.baseurl }}/){: .btn .btn-secondary }
+
+<script src="{{ site.baseurl }}/assets/js/layout.js"></script>
