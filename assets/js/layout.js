@@ -13,5 +13,16 @@ document.addEventListener('DOMContentLoaded', function() {
     mainContent.parentNode.insertBefore(wrapper, mainContent);
     wrapper.appendChild(nav);
     wrapper.appendChild(mainContent);
+
+    // Ajusta a posição do menu lateral baseado na altura do cabeçalho
+    function adjustSideNav() {
+      var headerHeight = header.offsetHeight;
+      nav.style.top = headerHeight + 'px';
+      nav.style.height = 'calc(100vh - ' + headerHeight + 'px)';
+    }
+
+    // Chama a função inicialmente e adiciona um listener para redimensionamento
+    adjustSideNav();
+    window.addEventListener('resize', adjustSideNav);
   }
 });
