@@ -135,24 +135,73 @@ h2 .fas, h2 .fab, h2 .far {
 
 // Ajustes responsivos
 @media screen and (max-width: 768px) {
+  .page-header {
+    padding: 1rem;
+  }
+
+  .project-name {
+    font-size: 1.75rem;
+  }
+
   .main-content-wrapper {
     flex-direction: column;
-    margin: 1rem auto;
+    margin: 0;
+    width: 100%;
+    box-shadow: none;
   }
 
   .side-nav {
     width: 100%;
     border-right: none;
     border-bottom: 1px solid #e9ecef;
-    padding: 1rem 0;
+    padding: 0;
+    position: relative;
+    overflow: hidden;
+    max-height: 50px;
+    transition: max-height 0.3s ease-out;
+  }
+
+  .side-nav.open {
+    max-height: 500px;
+    transition: max-height 0.5s ease-in;
   }
 
   .side-nav ul {
     position: static;
+    padding: 0.5rem 0;
+  }
+
+  .side-nav li {
+    margin-bottom: 0;
+  }
+
+  .side-nav .nav-item {
+    padding: 0.5rem 1rem;
   }
 
   .main-content {
-    padding: 1.5rem;
+    padding: 1rem;
+  }
+
+  .menu-toggle {
+    display: block;
+    background: none;
+    border: none;
+    padding: 0.5rem 1rem;
+    width: 100%;
+    text-align: left;
+    color: #495057;
+    font-weight: bold;
+    cursor: pointer;
+  }
+
+  .menu-toggle:after {
+    content: '\25BC';
+    float: right;
+  }
+
+  .side-nav.open .menu-toggle:after {
+    content: '\25B2';
   }
 }
 
