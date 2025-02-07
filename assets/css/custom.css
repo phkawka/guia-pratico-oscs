@@ -35,16 +35,3 @@
   transform: translateY(-2px);
   box-shadow: 0 2px 5px rgba(0,0,0,0.2);
 }
-
-@media (max-width: 768px) {
-  .nav-button {
-    width: calc(50% - 10px); /* 2 botões por linha em telas menores */
-    font-size: 12px;
-  }
-}
-
-@media (max-width: 480px) {
-  .nav-button {
-    width: 100%; /* 1 botão por linha em telas muito pequenas */
-  }
-}
