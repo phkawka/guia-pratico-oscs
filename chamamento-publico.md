@@ -117,3 +117,5 @@ Se houver uma sessão pública de abertura das propostas:
 Após a seleção no chamamento público, o próximo passo é a [Celebração da Parceria]({{ site.baseurl }}/celebracao-parceria).
 
 [Voltar para o Guia Prático]({{ site.baseurl }}/){: .btn .btn-secondary }
+
+<script src="{{ site.baseurl }}/assets/js/layout.js"></script>
