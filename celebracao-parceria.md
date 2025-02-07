@@ -95,3 +95,5 @@ Verifique se não há nenhum impedimento à celebração da parceria, como:
 Após a celebração da parceria, o próximo passo é a [Execução do Projeto]({{ site.baseurl }}/execucao-projeto).
 
 [Voltar para o Guia Prático]({{ site.baseurl }}/){: .btn .btn-secondary }
+
+<script src="{{ site.baseurl }}/assets/js/layout.js"></script>
