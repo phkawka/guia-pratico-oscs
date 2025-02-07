@@ -102,3 +102,5 @@ No processo de monitoramento e avaliação:
 Após o monitoramento e avaliação contínuos, a etapa final é a [Prestação de Contas]({{ site.baseurl }}/prestacao-contas).
 
 [Voltar para o Guia Prático]({{ site.baseurl }}/){: .btn .btn-secondary }
+
+<script src="{{ site.baseurl }}/assets/js/layout.js"></script>
