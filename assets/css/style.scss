@@ -25,10 +25,24 @@ body {
   font-size: 2.25rem;
 }
 
-.main-content {
+.main-content-wrapper {
+  display: flex;
+  flex: 1;
   max-width: 64rem;
-  padding: 2rem 6rem;
   margin: 0 auto;
+  padding: 2rem 0;
+}
+
+.side-nav {
+  width: 250px;
+  background-color: #f8f9fa;
+  padding: 1rem;
+  margin-right: 2rem;
+}
+
+.main-content {
+  flex: 1;
+  padding: 0 2rem;
   font-size: 1.1rem;
 }
 
@@ -91,12 +105,6 @@ h2 .fas, h2 .fab, h2 .far {
 }
 
 // Estilos para o menu
-.side-nav {
-  background-color: #f8f9fa;
-  padding: 1rem;
-  margin-bottom: 2rem;
-}
-
 .side-nav ul {
   list-style-type: none;
   padding: 0;
@@ -104,7 +112,7 @@ h2 .fas, h2 .fab, h2 .far {
 }
 
 .side-nav .nav-item {
-  display: inline-block;
+  display: block;
   padding: 0.5rem 1rem;
   color: #495057;
   text-decoration: none;
@@ -112,68 +120,6 @@ h2 .fas, h2 .fab, h2 .far {
   &:hover {
     color: #007bff;
     background-color: #e9ecef;
-  }
-}
-
-.menu-toggle {
-  display: none;
-}
-
-// Ajustes responsivos
-@media screen and (max-width: 42em) {
-  .page-header {
-    padding: 1rem;
-  }
-
-  .project-name {
-    font-size: 1.75rem;
-  }
-
-  .main-content {
-    padding: 2rem 1rem;
-  }
-
-  .side-nav {
-    padding: 0;
-    position: relative;
-    overflow: hidden;
-    max-height: 50px;
-    transition: max-height 0.3s ease-out;
-  }
-
-  .side-nav.open {
-    max-height: 500px;
-    transition: max-height 0.5s ease-in;
-  }
-
-  .side-nav ul {
-    padding: 0.5rem 0;
-  }
-
-  .side-nav .nav-item {
-    display: block;
-    padding: 0.5rem 1rem;
-  }
-
-  .menu-toggle {
-    display: block;
-    background: none;
-    border: none;
-    padding: 0.5rem 1rem;
-    width: 100%;
-    text-align: left;
-    color: #495057;
-    font-weight: bold;
-    cursor: pointer;
-  }
-
-  .menu-toggle:after {
-    content: '\25BC';
-    float: right;
-  }
-
-  .side-nav.open .menu-toggle:after {
-    content: '\25B2';
   }
 }
 
