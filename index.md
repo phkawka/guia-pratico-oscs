@@ -4,12 +4,7 @@ title: Guia Prático para OSCs
 ---
 
 <link rel="stylesheet" href="{{ site.font_awesome_url }}">
-
-<div class="main-content-wrapper">
-  <nav class="side-nav">
-    {% include nav.html %}
-  </nav>
-  <div class="main-content">
+{% include nav.html %}
 
 # <i class="fas fa-book"></i> Guia Prático para OSCs
 
@@ -44,8 +39,5 @@ Este guia foi desenvolvido com base na Lei 13.019/2014 e outras legislações re
 </div>
 
 [<i class="fas fa-play"></i> Iniciar o Guia]({{ site.baseurl }}/preparacao-inicial){: .btn .btn-primary }
-
-  </div>
-</div>
 
 <script src="{{ site.baseurl }}/assets/js/mobile-menu.js"></script>
