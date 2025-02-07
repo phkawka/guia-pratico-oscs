@@ -64,3 +64,5 @@ Invista na capacitação da sua equipe em áreas como:
 Após concluir sua preparação inicial, você estará pronto para começar a [Elaboração de Proposta]({{ site.baseurl }}/elaboracao-proposta).
 
 [Voltar para o Guia Prático]({{ site.baseurl }}/){: .btn .btn-secondary }
+
+<script src="{{ site.baseurl }}/assets/js/layout.js"></script>
