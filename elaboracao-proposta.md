@@ -131,3 +131,5 @@ Certifique-se de que sua OSC atende aos requisitos dos Arts. 33 e 34 da Lei 13.0
 Após finalizar sua proposta, você estará pronto para a [Participação no Chamamento Público]({{ site.baseurl }}/chamamento-publico).
 
 [Voltar para o Guia Prático]({{ site.baseurl }}/){: .btn .btn-secondary }
+
+<script src="{{ site.baseurl }}/assets/js/layout.js"></script>
