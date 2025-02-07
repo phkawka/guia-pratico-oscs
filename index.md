@@ -39,3 +39,5 @@ Este guia foi desenvolvido com base na Lei 13.019/2014 e outras legislações re
 </div>
 
 [<i class="fas fa-play"></i> Iniciar o Guia]({{ site.baseurl }}/preparacao-inicial){: .btn .btn-primary }
+
+<script src="{{ site.baseurl }}/assets/js/layout.js"></script>
