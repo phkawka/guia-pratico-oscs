@@ -43,3 +43,6 @@
     text-align: center;
   }
 }
+.btn[href$="github.com"] {
+  display: none !important;
+}
