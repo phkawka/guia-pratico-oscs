@@ -38,6 +38,8 @@ Bem-vindo ao Escritório de Projetos OSC, seu guia completo para gerenciar proje
 
 ## Recursos Adicionais
 
+[Acesse nossa biblioteca de recursos adicionais]({{ site.baseurl }}/escritorio-projetos-osc/recursos-adicionais) para templates, guias, ferramentas e mais.
+
 - [Biblioteca de Modelos]({{ site.baseurl }}/escritorio-projetos-osc/biblioteca-modelos)
 - [Ferramentas Interativas]({{ site.baseurl }}/escritorio-projetos-osc/ferramentas-interativas)
 - [FAQ e Dicas]({{ site.baseurl }}/escritorio-projetos-osc/faq-dicas)
