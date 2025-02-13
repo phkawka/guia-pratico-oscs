@@ -5,7 +5,7 @@ title: Escritório de Projetos OSC
 
 # <i class="fas fa-project-diagram"></i> Escritório de Projetos OSC
 
-Bem-vindo ao Escritório de Projetos OSC, seu centro de recursos para gerenciar projetos de forma eficaz. Navegue pelo ciclo de vida do projeto clicando em cada etapa abaixo.
+Bem-vindo ao Escritório de Projetos OSC, seu guia completo para gerenciar projetos de forma eficaz e eficiente. Aqui você encontrará recursos, ferramentas e orientações para cada fase do ciclo de vida do seu projeto.
 
 <div id="fluxograma">
   <div class="etapa" data-page="1-iniciacao-projeto">
@@ -29,6 +29,12 @@ Bem-vindo ao Escritório de Projetos OSC, seu centro de recursos para gerenciar 
     <span>5. Encerramento</span>
   </div>
 </div>
+
+## Como usar este Escritório de Projetos
+
+1. Clique em cada etapa do fluxograma acima para acessar recursos específicos daquela fase do projeto.
+2. Use a barra de navegação para acessar ferramentas e modelos úteis para seu projeto.
+3. Consulte nossa seção de FAQ e Dicas para respostas rápidas e orientações práticas.
 
 ## Recursos Adicionais
 
