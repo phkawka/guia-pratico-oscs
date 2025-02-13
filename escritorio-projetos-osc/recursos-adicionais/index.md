@@ -18,12 +18,12 @@ Bem-vindo à seção de Recursos Adicionais do nosso Escritório de Projetos par
 
 ## Templates e Formulários
 
-- [Template de Termo de Abertura do Projeto]({{ site.baseurl }}/escritorio-projetos-osc/recursos-adicionais/templates/termo-abertura-projeto.docx)
-- [Planilha de Orçamento do Projeto]({{ site.baseurl }}/escritorio-projetos-osc/recursos-adicionais/templates/planilha-orcamento-projeto.xlsx)
-- [Modelo de Cronograma]({{ site.baseurl }}/escritorio-projetos-osc/recursos-adicionais/templates/modelo-cronograma.xlsx)
-- [Matriz de Responsabilidades]({{ site.baseurl }}/escritorio-projetos-osc/recursos-adicionais/templates/matriz-responsabilidades.docx)
-- [Registro de Riscos]({{ site.baseurl }}/escritorio-projetos-osc/recursos-adicionais/templates/registro-riscos.xlsx)
-- [Formulário de Lições Aprendidas]({{ site.baseurl }}/escritorio-projetos-osc/recursos-adicionais/templates/formulario-licoes-aprendidas.docx)
+- [Template de Termo de Abertura do Projeto]({{ site.baseurl }}/escritorio-projetos-osc/recursos-adicionais/templates/termo-abertura-projeto)
+- [Planilha de Orçamento do Projeto]({{ site.baseurl }}/escritorio-projetos-osc/recursos-adicionais/templates/planilha-orcamento-projeto)
+- [Modelo de Cronograma]({{ site.baseurl }}/escritorio-projetos-osc/recursos-adicionais/templates/modelo-cronograma)
+- [Matriz de Responsabilidades]({{ site.baseurl }}/escritorio-projetos-osc/recursos-adicionais/templates/matriz-responsabilidades)
+- [Registro de Riscos]({{ site.baseurl }}/escritorio-projetos-osc/recursos-adicionais/templates/registro-riscos)
+- [Formulário de Lições Aprendidas]({{ site.baseurl }}/escritorio-projetos-osc/recursos-adicionais/templates/formulario-licoes-aprendidas)
 
 ## Guias e Manuais
 
