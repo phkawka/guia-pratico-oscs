@@ -3,29 +3,33 @@ layout: default
 title: Escritório de Projetos OSC
 ---
 
-# Escritório de Projetos OSC
+# <i class="fas fa-project-diagram"></i> Escritório de Projetos OSC
 
-{% include escritorio-nav.html %}
+Bem-vindo ao Escritório de Projetos OSC. Clique em cada etapa do fluxograma para obter informações detalhadas.
 
-Bem-vindo ao Escritório de Projetos OSC. Aqui você encontrará recursos e ferramentas para ajudar na gestão de projetos de sua organização.
+<div id="fluxograma">
+  <div class="etapa" data-page="1-iniciacao-projeto/avaliacao-capacidade-institucional">
+    <i class="fas fa-building"></i>
+    <span>Avaliação de Capacidade Institucional</span>
+  </div>
+  <div class="etapa" data-page="1-iniciacao-projeto/checklist-pre-requisitos">
+    <i class="fas fa-clipboard-check"></i>
+    <span>Checklist de Pré-requisitos</span>
+  </div>
+  <div class="etapa" data-page="1-iniciacao-projeto/modelo-analise-edital">
+    <i class="fas fa-file-alt"></i>
+    <span>Modelo de Análise de Edital</span>
+  </div>
+  <div class="etapa" data-page="planejamento/ferramenta-interativa-proposta">
+    <i class="fas fa-tools"></i>
+    <span>Ferramenta Interativa de Proposta</span>
+  </div>
+</div>
 
-## Ferramentas Disponíveis
-
-- [Ferramenta Interativa de Elaboração de Proposta](./planejamento/ferramenta-interativa)
-
-## Seções
-
-1. [Iniciação do Projeto](./1-iniciacao-projeto)
-   - [Avaliação de Capacidade Institucional](./1-iniciacao-projeto/avaliacao-capacidade-institucional)
-   - [Checklist de Pré-requisitos](./1-iniciacao-projeto/checklist-pre-requisitos)
-   - [Modelo de Análise de Edital](./1-iniciacao-projeto/modelo-analise-edital)
-
-2. [Planejamento](./planejamento)
-
-3. [Execução do Projeto](./execucao)
-
-4. [Monitoramento e Controle](./monitoramento)
-
-5. [Encerramento do Projeto](./encerramento)
-
-[Voltar para a página inicial]({{ site.baseurl }}/)
+<script>
+document.querySelectorAll('.etapa').forEach(etapa => {
+  etapa.addEventListener('click', () => {
+    window.location.href = '{{ site.baseurl }}/escritorio-projetos-osc/' + etapa.dataset.page;
+  });
+});
+</script>
