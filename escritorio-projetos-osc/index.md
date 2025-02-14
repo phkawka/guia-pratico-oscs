@@ -9,11 +9,11 @@ Bem-vindo ao Escritório de Projetos para OSCs, um recurso abrangente para ajuda
 
 ## Fases do Gerenciamento de Projetos
 
-1. [Iniciação]({{ site.baseurl }}/escritorio-projetos-osc/iniciacao)
-2. [Planejamento]({{ site.baseurl }}/escritorio-projetos-osc/planejamento)
-3. [Execução]({{ site.baseurl }}/escritorio-projetos-osc/execucao)
-4. [Monitoramento e Controle]({{ site.baseurl }}/escritorio-projetos-osc/monitoramento-controle)
-5. [Encerramento]({{ site.baseurl }}/escritorio-projetos-osc/encerramento)
+1. [Iniciação]({{ site.baseurl }}/escritorio-projetos-osc/1-iniciacao)
+2. [Planejamento]({{ site.baseurl }}/escritorio-projetos-osc/2-planejamento)
+3. [Execução]({{ site.baseurl }}/escritorio-projetos-osc/3-execucao)
+4. [Monitoramento e Controle]({{ site.baseurl }}/escritorio-projetos-osc/4-monitoramento-controle)
+5. [Encerramento]({{ site.baseurl }}/escritorio-projetos-osc/5-encerramento)
 
 Cada seção contém informações detalhadas, dicas práticas e ferramentas úteis para ajudar sua organização a gerenciar projetos com sucesso.
 
